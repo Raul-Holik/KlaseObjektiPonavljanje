@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlaseObjektiPon\KlaseObjektiPon\bin\Debug\KlaseObjektiPon.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlaseObjektiPon\KlaseObjektiPon\bin\Debug\KlaseObjektiPon.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlaseObjektiPon\KlaseObjektiPon\bin\Debug\KlaseObjektiPon.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlaseObjektiPon\KlaseObjektiPon\obj\Debug\KlaseObjektiPon.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlaseObjektiPon\KlaseObjektiPon\obj\Debug\KlaseObjektiPon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlaseObjektiPon\KlaseObjektiPon\obj\Debug\KlaseObjektiPon.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlaseObjektiPon\KlaseObjektiPon\obj\Debug\KlaseObjektiPon.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlaseObjektiPon\KlaseObjektiPon\obj\Debug\KlaseObjektiPon.pdb
